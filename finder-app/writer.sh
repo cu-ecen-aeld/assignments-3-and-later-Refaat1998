@@ -3,6 +3,9 @@
 #echo arguments to the shell
 set -e
 
+
+
+
 echo $1 $2 $3 ' -> echo $1 $2 $3'
 
 # We can also store arguments from bash command line in special array
