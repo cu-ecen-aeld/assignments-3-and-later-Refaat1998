@@ -5,7 +5,6 @@
 set -e
 set -u
 
-make -f Makefile || exit
 
 NUMFILES=10
 WRITESTR=AELD_IS_FUN
